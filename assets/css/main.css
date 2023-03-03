@@ -2,6 +2,33 @@
     outline: 1px dashed lightcoral;
 }*/
 
+.foto_perfil img{
+    width: 90%;
+    border-radius: 5px;
+    
+}
+.foto_perfil{
+   
+}
+.font-pequena{
+    font-size: x-small;
+    margin-top: 2px;
+    color: var(--primary-color);
+}
+
+.header__social-icons{
+    font-size:small;
+    
+}
+.skills__title{
+    color:var(--primary-color);
+}
+.skills__title1{
+    color: orange;
+}
+.skills__description{
+    color: var(--primary-color);
+}
 :root {
     /*Perfil de Cores*/
     --primary-color: #0367A6 ;
